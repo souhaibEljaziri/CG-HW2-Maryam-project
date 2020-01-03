@@ -1,0 +1,2 @@
+﻿  CG HW2 Maryam project.cpp
+c:\users\souhaib\desktop\bureau\cg hw2 maryam project\cg hw2 maryam project\cg hw2 maryam project.cpp(57): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "pch.h"' à votre source ?
